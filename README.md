@@ -1,2 +1,2 @@
 # forage_pro
-various classifiers
+Various Neural Net classifiers
